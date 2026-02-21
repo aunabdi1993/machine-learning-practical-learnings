@@ -30,3 +30,25 @@ Example used: Breast cancer detection—diagnostic tool for doctors to figure ou
 Summary
 
 ![supervised-learning-4](../images/supervised-learning-4.png)
+
+## Unsupervised Learning
+
+### What is unsupervised learning?
+
+As opposed to supervised learning, unsupervised learning does not require a desired output. Instead, it relies on the algorithm to extract interesting information and pattens from the dataset. 
+
+An example of unsupervised learning is clustering, where the algorithm groups similar data together. 
+
+![unsupervised-learning-1](../images/unsupervised-learning-1.png)
+
+An example of clustering in practise is something like Google News, where it scans new articles and groups similar articles together.
+
+![unsupervised-learning-2](../images/unsupervised-learning-2.png)
+
+Two other types of unsupervised learning are:
+
+- **Anomaly Detection**: Finding unusual data points
+- **Dimensionality Reduction**: Compressing data using fewer numbers
+
+## Linear Regression Model
+
